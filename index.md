@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivan May's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ivan May
+Automation QA Engineer, DevSecOps Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ivanello@gmail.com">ivanello@gmail.com</a>
+<!-- | <a href="http://en.wikipedia.org/">My wikipedia page</a> -->
 </div>
 
 

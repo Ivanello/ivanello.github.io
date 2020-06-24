@@ -7,22 +7,22 @@ Automation QA Engineer, DevSecOps Engineer
 
 <div id="webaddress">
 <a href="ivanello@gmail.com">ivanello@gmail.com</a>
-<!-- | <a href="http://en.wikipedia.org/">My wikipedia page</a> -->
+| <a href="https://t.me/a_i_all">Telegram</a>
+| <a href="https://join.skype.com/invite/xW8q4gBQmfOv">Skype</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Open for some AQA and DevOps Activities like part time or short term projects
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+...
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads traffic as hobby
 
 
 ## Education

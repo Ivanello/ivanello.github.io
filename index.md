@@ -3,7 +3,7 @@ layout: cv
 title: Ivan May's CV
 ---
 # Ivan May
-Automation QA Engineer, DevSecOps Engineer
+Automation QA Engineer shifting to DevSecOps Engineer
 
 <div id="webaddress">
 <a href="ivanello@gmail.com">ivanello@gmail.com</a>
@@ -14,78 +14,74 @@ Automation QA Engineer, DevSecOps Engineer
 
 ## Currently
 
-Open for some AQA and DevOps Activities like part time or short term projects
+Open for AQA and DevSecOps Activities like part time or short term projects
 
-### Specialized in
+### Technology profile
 
-...
+- Testing/development standards and methodologies knowledge
+- ___Infrastructure___: Kubernetes, Docker(compose), AWS, Terraform, Ansible
+- ___Monitoring___: Prometheus, Grafana
+- ___Automation___: Selenium, Puppeteer, Cypress.io, Playwright, Bash/Python scripting
+- ___AppSec___: SSDLC, SASTs, DASTs
+- ___Language___: JS, Python, Ruby, Java
+- ___CI/CD___: Jenkins, Gitlab, Github
+- ___Performance___: JMeter, k6.io
 
 ### Research interests
 
 DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads traffic as hobby
 
+## Occupation
+
+`2015 till now`
+- • more than 5 years experience in QAutomation in different projects
+- • was involved a different type of projects API, WEB, Mobile and areas fintech, saas, embedded, telecom
+- • providing automation of QA processes and integration into CI/CD
+- • upgrading and creating testing framework from scratch
+- • mentoring colleagues such as beginners QA, developers, admins
+- • providing, analyzing load testing- implementing SRE Practices
+- • adding Security activities to team (security champions, SSDLC)
+
+`2005 - 2015`
+- __Kyivstar__, IPMPLS DWDM Network Planning Engineer
+- __Beeline Ukraine__, SDH/PDH Transmission Engineer
+- __UkrSat__, PBX Service Engineer
+
+## Cources
+
+`2020`
+[Slurm SRE](https://slurm.io/sre), Moskow
+
+`2019`
+[Slurm MEGA](https://slurm.io/mega), Moskow
+
+`2010`
+NEC Pasolink Neo & Superguard+ Training, Budapest
+
+`2008`
+TTC Marconi SDH/Ethernet multiplexers, Prague
+
+`2007`
+Ericsson (Marconi)  Core level SDH network multiplexers, Genova
+
+`2006`
+Huawei full line of SDH multiplexers, Moskow
+
+`2005`
+Ericsson GSM network signaling, Moskow
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007 - 2010`
+__Management of organizations, University of Telecommunication, (Kyiv, UA)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor’s degree
 
-- Sizar
+`1998 - 2004`
+__Hydro-gas systems of aircraft, National Aviation University (Kyiv, UA)__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`Last updated: Jul, 2020`
 
 

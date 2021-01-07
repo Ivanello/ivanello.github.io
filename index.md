@@ -13,7 +13,7 @@ DevSecOps Engineer
 
 ## Currently
 
-Open for DevSecOps activities like part time or short term projects
+Open for DevSecOps activities long, short term and part time interesting projects
 
 ### Technology profile
 

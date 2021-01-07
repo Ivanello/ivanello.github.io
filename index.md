@@ -3,35 +3,42 @@ layout: cv
 title: Ivan May's CV
 ---
 # Ivan May
-Automation QA Engineer shifting to DevSecOps Engineer
+DevSecOps Engineer
 
 <div id="webaddress">
 <a href="ivanello@gmail.com">ivanello@gmail.com</a>
-| <a href="https://t.me/a_i_all">Telegram</a>
 | <a href="https://join.skype.com/invite/xW8q4gBQmfOv">Skype</a>
 </div>
 
 
 ## Currently
 
-Open for AQA and DevSecOps Activities like part time or short term projects
+Open for DevSecOps activities like part time or short term projects
 
 ### Technology profile
 
-- Testing/development standards and methodologies knowledge
-- ___Infrastructure___: Kubernetes, Docker(compose), AWS, Terraform, Ansible
-- ___Monitoring___: Prometheus, Grafana
+- SSDLC standards and methodologies knowledge
+- ___Infrastructure___: Kubernetes, Docker Swarm, Terraform, Ansible
+- ___Cloud___: AWS, YandexCloud, Digital Ocean, Hetzner
+- ___Logging/Monitoring___: EFK, Graylog, SAAS platforms, Prometheus, Grafana
 - ___Automation___: Selenium, Puppeteer, Cypress.io, Playwright, Bash/Python scripting
-- ___AppSec___: SSDLC, SASTs, DASTs
-- ___Language___: JS, Python, Ruby, Java
-- ___CI/CD___: Jenkins, Gitlab, Github
+- ___AppSec___: SonarQube, DefectDojo, open-source  SASTs and DASTs, MobSF, code and image dependency scanning
+- ___Language___: Python, Ruby, JS, Java
+- ___CI/CD___: Gitlab, Github actions, Jenkins, Bamboo
 - ___Performance___: JMeter, k6.io
 
 ### Research interests
 
-DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads traffic as hobby
+Infrastructure, Clouds, DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads traffic as hobby
 
 ## Occupation
+
+`last year experience`
+- • develop gitlab-ci framework for security scanners integrating into other pipelines
+- • scanning code for secrets, vulnerabilities, threads and weak places (SAST)
+- • vulnerable dependencies security code analyzing with reporting and alerting
+- • collecting, analyzing reports and providing alerts
+- • analyzing metrics of product teams in Metabase
 
 `2015 till now`
 - • more than 5 years experience in QAutomation in different projects

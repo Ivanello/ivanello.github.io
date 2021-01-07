@@ -13,7 +13,7 @@ DevSecOps Engineer
 
 ## Currently
 
-Open for DevSecOps activities like part time or short term projects
+Open for DevSecOps activities long, short term and part time interesting projects
 
 ### Technology profile
 
@@ -57,10 +57,10 @@ Infrastructure, Clouds, DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads tr
 ## Cources
 
 `2020`
-[Slurm SRE](https://slurm.io/sre), Moskow
+[Slurm SRE](https://slurm.io/sre), Msk
 
 `2019`
-[Slurm MEGA](https://slurm.io/mega), Moskow
+[Slurm MEGA](https://slurm.io/mega), Msk
 
 `2010`
 NEC Pasolink Neo & Superguard+ Training, Budapest
@@ -72,10 +72,10 @@ TTC Marconi SDH/Ethernet multiplexers, Prague
 Ericsson (Marconi)  Core level SDH network multiplexers, Genova
 
 `2006`
-Huawei full line of SDH multiplexers, Moskow
+Huawei full line of SDH multiplexers, Msk
 
 `2005`
-Ericsson GSM network signaling, Moskow
+Ericsson GSM network signaling, Msk
 
 ## Education
 

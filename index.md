@@ -57,10 +57,10 @@ Infrastructure, Clouds, DevSecOps, SSDLC, SRE, Monitoring, AQA processes, Ads tr
 ## Cources
 
 `2020`
-[Slurm SRE](https://slurm.io/sre), Moskow
+[Slurm SRE](https://slurm.io/sre), Moscow
 
 `2019`
-[Slurm MEGA](https://slurm.io/mega), Moskow
+[Slurm MEGA](https://slurm.io/mega), Moscow
 
 `2010`
 NEC Pasolink Neo & Superguard+ Training, Budapest
@@ -72,10 +72,10 @@ TTC Marconi SDH/Ethernet multiplexers, Prague
 Ericsson (Marconi)  Core level SDH network multiplexers, Genova
 
 `2006`
-Huawei full line of SDH multiplexers, Moskow
+Huawei full line of SDH multiplexers, Moscow
 
 `2005`
-Ericsson GSM network signaling, Moskow
+Ericsson GSM network signaling, Moscow
 
 ## Education
 

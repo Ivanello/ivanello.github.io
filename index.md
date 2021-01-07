@@ -89,4 +89,4 @@ __Hydro-gas systems of aircraft, National Aviation University (Kyiv, UA)__
 
 - Master's degree
 
-`Last updated: Jul, 2020`
+`Last updated: Jan, 2021`

@@ -7,6 +7,7 @@ SRE DevSecOps Engineer
 
 <div id="webaddress">
 <a href="mailto:ivanello@gmail.com">ivanello@gmail.com</a>
+| <a href="https://t.me/ivanmayy">Telegram</a>
 | <a href="https://join.skype.com/invite/xW8q4gBQmfOv">Skype</a>
 </div>
 
